@@ -1,0 +1,128 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  margin: 0 auto;
+  width: 100%;
+}
+img {
+  display: block;
+  width: 100%;
+}
+a {
+  text-decoration: none;
+}
+.main-top {
+ width: 100%;
+ margin: 0 auto;
+}
+.main-top .inner {
+}
+.main-top .inner .rv1 {
+  position: absolute;
+  top: 48%;
+  left: 29.5%;
+}
+.main-top .inner .rv2 {
+  position: absolute;
+  top: 48%;
+  left: 35%;
+}
+.main-top .inner .rv3 {
+  position: absolute;
+  top: 48%;
+  left: 41.5%;
+}
+.main-top .inner .rv4 {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+}
+.main-top .inner .rv5 {
+  position: absolute;
+  top: 48%;
+  left: 59%;
+}
+.main-top .inner .rv6 {
+  position: absolute;
+  top: 48%;
+  left: 65%;
+}
+.main-top .inner .rv7 {
+  position: absolute;
+  top: 73%;
+  left: 32%;
+}
+.main-top .inner .rv > img {
+  width: 60%;
+}
+.plads-main {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+}
+.plads-main .decript1 {
+  position: absolute;
+  top: 68%;
+  left: 0;  
+}
+.plads-main2 {
+  position: relative;
+  width: 100%;
+}
+.parallax-window {
+  min-height: 1700px;
+  background: transparent;
+}
+.parallax-0 {
+  position: relative;
+  height: 1200px;
+}
+.parallax-txt {
+  position: absolute;
+  z-index: 1;
+  bottom: 40%;
+  right: 5%;
+}
+.mv-wrap {
+  position: relative;
+  width: 100%;
+}
+.mv1 {
+  position: absolute;
+  width: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.plads-logos {
+  width: 60%;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.plads-main4 {
+  position: relative;
+}
+.decript2 {
+  width: 40%;
+  position: absolute;
+  top: 2%;
+  left: 4%;
+}
+.decript3 {
+  position: absolute;
+  top: 20%;
+  left: 0;
+  width: 45%;
+}
+.plads-main6 {
+  width: 100%;
+  position: relative;
+}
+.plads-logos2 {
+  position: absolute;
+  top: 56%;
+  left: 10%;
+  width: 80%;
+}
